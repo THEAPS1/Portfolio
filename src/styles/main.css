@@ -232,10 +232,12 @@
 
 .mb-4 {
   margin-bottom: var(--space-4);
+  text-align : justify;
 }
 
 .mb-8 {
   margin-bottom: var(--space-8);
+  text-align : justify;
 }
 
 .mt-8 {
